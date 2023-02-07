@@ -71,7 +71,7 @@
 <div>
     <h2>📋 Project</h2>
     <ol>
-        <li><a href=""> <h3>수중로봇 네비게이션 시스템</h3></a>
+        <li><a href="https://github.com/pk3313/pk3313/tree/main/Project_A"> <h3>수중로봇 네비게이션 시스템</h3></a>
             무인 잠수정(ROV) 수중 환경 위치 추정을 위해 센서를 이용한 네비게이션 시스템 개발 프로젝트<br>
             개발 기간 : 2021.09 ~ 2023.11<br>
             <br>
