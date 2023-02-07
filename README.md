@@ -4,14 +4,14 @@
     <h1 class="notion-title"> 김평강 | 노력쟁이 AI 개발자</h1>
 </div>
 <div align="center">
-    <h2>😎Introduce</h2>
+    <h2>😎 Introduce</h2>
     <br>    
     <img src="photo/pyeong.jpg">
 </div>
 <hr>
 <div style = "overflow:hidden;height:100%">
     <div style="float:left">
-        <h2>🏫Education</h2>
+        <h2>🏫 Education</h2>
             <li> 광주 숭의고등학교 졸업<br>
                 <ul> (2007년 졸업 | 컴퓨터 전자 전기과)</ul>
             </li>
@@ -71,7 +71,8 @@
 <div>
     <h2>📋 Project</h2>
     <ol>
-        <li><a href="https://github.com/pk3313/pk3313/tree/main/Project_A"> <h3>수중로봇 네비게이션 시스템</h3></a>
+        <li>
+            <a href="https://github.com/pk3313/pk3313/tree/main/Project_A"><h3>수중로봇 네비게이션 시스템</h3></a>
             무인 잠수정(ROV) 수중 환경 위치 추정을 위해 센서를 이용한 네비게이션 시스템 개발 프로젝트<br>
             개발 기간 : 2021.09 ~ 2023.11<br>
             <br>
@@ -81,9 +82,8 @@
         <br>
         <li><a href=""> <h3>어린이집 교육용 로봇 </h3></a>
             아동-로봇 간 상호작용 프로그램 제작 프로젝트<br>
-            개발 기간 : 2021.05 ~ 2023.1 <br>
+            개발 기간 : 2021.05 ~ 2023.1 <br><br>
             기술 스택 :<br>
-            <br>
             STT & TTS, Transformer, Python, Ubuntu</ul>
         </li>    
     </ol>
