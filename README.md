@@ -4,14 +4,14 @@
     <h1 class="notion-title"> 김평강 | 노력쟁이 AI 개발자</h1>
 </div>
 <div align="center">
-    <h3>😎Introduce😎</h3>
+    <h2>😎Introduce</h2>
     <br>    
     <img src="photo/pyeong.jpg">
 </div>
 <hr>
-<div style = "overflow:hidden;height:auto">
+<div style = "overflow:hidden;height:100%">
     <div style="float:left">
-        <h3>🏫Education🏫</h3>
+        <h2>🏫Education</h2>
             <li> 광주 숭의고등학교 졸업<br>
                 <ul> (2007년 졸업 | 컴퓨터 전자 전기과)</ul>
             </li>
@@ -40,7 +40,7 @@
             </li>
     </div>        
     <div style="float:right">            
-        <h3>💼 Work Experiance 💼</h3>
+        <h2>💼 Work Experiance </h2>
             <li> 삼영시스템 : 델파이를 활용한 무인발매기 개발 및 유지보수
                 <ul> 사원 | 2014.04 ~ 2014.09<br></ul>
             </li>
@@ -55,8 +55,8 @@
 
 <hr>     
 <div align = "center">
-    <h3>📚Tech Stack📚</h3>
-    <p>✨Languages and Tools ✨</p>
+    <h2>📚Tech Stack</h2>
+    <p>✨Languages and Tools </p>
     <img src="https://img.shields.io/badge/python-purple?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -69,7 +69,32 @@
 <br>
 <hr>
 <div>
-    <h3>😄 Port polio 😄</h3>
+    <h2>📋 Project</h2>
+    <ol>
+        <li><a href=""> <h3>수중로봇 네비게이션 시스템</h3></a>
+            무인 잠수정(ROV) 수중 환경 위치 추정을 위해 센서를 이용한 네비게이션 시스템 개발 프로젝트<br>
+            개발 기간 : 2021.09 ~ 2023.11<br>
+            <br>
+            기술 스택 :<br>
+            Ubuntu, Python, Socket, Numpy        
+        </li>
+        <br>
+        <li><a href=""> <h3>어린이집 교육용 로봇 </h3></a>
+            아동-로봇 간 상호작용 프로그램 제작 프로젝트<br>
+            개발 기간 : 2021.05 ~ 2023.1 <br>
+            기술 스택 :<br>
+            <br>
+            STT & TTS, Transformer, Python, Ubuntu</ul>
+        </li>    
+    </ol>
+</div>
+
+
+
+
+
+
+<!-- 
     <li>프로젝트 명 : 수중 로봇 네비게이션 시스템<br>
         <ul> 
             - 담당 역할 : DVL, FOG, Depth, Altimeter 데이터를 활용한 시각화 및 위치추정, 좌표 계산 프로그램<br>
@@ -92,13 +117,10 @@
             - 상세 내용 : <br>
             <ul>
                 - STT & TTS를 활용한 로봇 간 상호작용 프로그램 작성 , Transformer 모델을 활용한 QnA 생성, 질문 생성을 위한 Corpus 프로그램 제작 등을 담당 및 실무 담당자로서 프로젝트를 주도<br>
-                - 어린이 대화를 위한 Corpus 제작을 위해 어린이 데이터를 수집하는 Crawling 코드를 작성하여 어린이 데이터를 수집<br>
+                - 어린이 대화를 위한 Corpus 제작을 위해 어린이 데이터를 수집하는 Crawling 코드를 작성하여 어린이 데이터를 수집<br> 
+-->
 
 
-
-
-
-</div>
 
 <!--
 **pk3313/pk3313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
