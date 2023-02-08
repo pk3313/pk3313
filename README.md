@@ -3,13 +3,21 @@
 <div align="center">
     <h1 class="notion-title"> 김평강 | 노력쟁이 AI 개발자</h1>
 </div>
-<div align="center">
+<div align="center"
+    style = "overflow:hidden;height:400px">
     <h2>😎 Introduce</h2>
-    <br>    
-    <img src="photo/pyeong.jpg">
+    <br>
+        <img 
+        src="photo/ID_photo.jpg"
+        style = "height:300px;float:left">
+    <!-- <div style="height:300px;width:1px;background-color:grey"></div> -->
+    <div>
+       <!-- 자기소개 작성 -->
+    </div>
+
 </div>
 <hr>
-<div style = "overflow:hidden;height:100%">
+<div style = "overflow:hidden;height:600px">
     <div style="float:left">
         <h2>🏫 Education</h2>
             <li> 광주 숭의고등학교 졸업<br>
