@@ -100,7 +100,7 @@
 
 
 [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=pk3313)](https://github.com/pk3313/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk3313&langs_count=10&layout=compact&theme=dark)](https://github.com/pk3313)
 
 <!-- 
     <li>프로젝트 명 : 수중 로봇 네비게이션 시스템<br>
