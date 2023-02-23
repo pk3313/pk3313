@@ -1,0 +1,2 @@
+Time,Latitude,Longitude,Depth,Altitude,Event
+2022-11-06 04:19:18,365492.65625,2190332.0,731.085999,0,회수완료 

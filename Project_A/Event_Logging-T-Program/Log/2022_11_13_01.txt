@@ -1,0 +1,2 @@
+Time,Latitude,Longitude,Depth,Altitude,Event
+2022-11-13 01:49:53,0.0,0.0,0.0,0,진수 시작 

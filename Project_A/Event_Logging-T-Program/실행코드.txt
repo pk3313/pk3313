@@ -1,0 +1,1 @@
+conda activate rov && python C:\Users\Navigation1\Desktop\ControlVan\Event_Logging-T-Program_v1.0.0\EventLogging.py

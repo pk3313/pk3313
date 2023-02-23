@@ -1,0 +1,24 @@
+==============================================================
+
+DVL setting 사용법 
+
+?  : 도움말 출력 
+A  :  Available Compass commands
+B  :  Available Bottom Track commands
+C  :  Available Control system commands
+D  :  Available Sound Velocity Smart Sensor commands
+E  :  Available Environmental commands
+F  :  Available Fault Log commands
+P  :  Available Performance and Testing commands
+R  :  Available Recorder commands
+S  :  Available Ping synchronization(동기화) commands
+T  :  Available Timing commands
+W :  Available Water Profile commands
+
+=============================================================
+
+How to use
+
+A? : A 명령어 도움말 출력 및 데이터 확인
+PD11 : PD11 데이터 출력 형식 변환 
+   

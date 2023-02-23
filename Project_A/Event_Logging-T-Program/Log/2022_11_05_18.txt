@@ -1,0 +1,2 @@
+Time,Latitude,Longitude,Depth,Altitude,Event
+0,0,0,0,0,0

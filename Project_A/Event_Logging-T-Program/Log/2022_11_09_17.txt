@@ -1,0 +1,2 @@
+Time,Latitude,Longitude,Depth,Altitude,Event
+2022-11-09 17:38:31,351986.21875,2165716.5,28.323999,0,Deck on

@@ -1,0 +1,2 @@
+Time,Latitude,Longitude,Depth,Altitude,Event
+2022-11-11 18:03:02,353711.375,2166235.0,22.952999,0,µ¥Å© ¿Â 
